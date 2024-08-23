@@ -12,7 +12,7 @@ mongosh
 <h4>show databases</h4>
 
 ```js
-show db
+show dbs
 ```
 <h4>show databasename</h4>
 
@@ -46,3 +46,20 @@ db.collectionName.insertOne()
 ```js
 db.collectionName.multipleOne()
 ```
+<h3>MongoDB Finding </h3>
+<h4>Find() (to find all data in a particular database)</h4>
+
+```js
+db.collectionname.find()
+```
+
+<img src="https://github.com/user-attachments/assets/0b19b1be-0807-4e16-8207-23c3beae9974"/>
+<h3>Need Single Value to find</h3>
+<img src="https://github.com/user-attachments/assets/e69e140f-c0b8-4ef8-aef2-2af28d4cf00b"/>
+<h3>Need Single value with one value </h3>
+<img src="https://github.com/user-attachments/assets/d16b4b7f-27ee-4ad5-bb3d-4221bd3773fd"/>
+<h3>If need a specific value</h3>
+<img src="https://github.com/user-attachments/assets/8d5964c9-158c-43a0-adec-09f45fc60bd3"/>
+
+
+
