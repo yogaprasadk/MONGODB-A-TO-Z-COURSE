@@ -61,5 +61,8 @@ db.collectionname.find()
 <h3>If need a specific value</h3>
 <img src="https://github.com/user-attachments/assets/8d5964c9-158c-43a0-adec-09f45fc60bd3"/>
 
-
-
+<h3>Sor LImit Skip</h3>
+<h4>Count for Database</h4>
+<img src="https://github.com/user-attachments/assets/299b1d18-2a4c-4d67-beca-2c0bbc044844"/>
+<h4>Limit for Database</h4>
+<img src="https://github.com/user-attachments/assets/f7a34766-b208-46c2-a7f2-c6f73d59e1c3"/>
